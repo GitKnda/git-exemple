@@ -1,4 +1,4 @@
 <template>
     <p>contact</p>
-    <p>deuxieme contact</p>
+    <p>rajouter un footer</p>
 </template>
